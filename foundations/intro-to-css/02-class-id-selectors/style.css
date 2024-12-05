@@ -1,0 +1,18 @@
+.a {
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(233, 135, 122);
+}
+
+#i {
+    font-size: 36px;
+    color: rgb(7, 7, 245);
+}
+
+.big {
+    font-size: 24px;
+}
+
+#ii {
+    font-weight: bold;
+    background-color: rgba(10, 255, 140, 1);
+}
