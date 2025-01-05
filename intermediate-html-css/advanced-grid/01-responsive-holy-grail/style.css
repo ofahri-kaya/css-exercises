@@ -4,6 +4,7 @@ html {
   margin: 0;
 }
 
+/* Already done in the positioning the grid exercise*/
 .container {
   text-align: center;
   height: 100%;
